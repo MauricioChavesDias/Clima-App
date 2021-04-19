@@ -14,7 +14,7 @@ A beautiful, dark-mode enabled weather app. Clima checks the weather for the cur
 
 
 
-## What you I learned with this app
+## What you I learned building this app
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
